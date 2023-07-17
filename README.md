@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a front end developer...
+I'm an aspiring full stack developer...
 
 
 ## 🔗 Links
